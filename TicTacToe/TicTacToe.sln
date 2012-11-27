@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe\TicTacToe.csproj", "{074762F1-BD68-48DD-9158-BB34A1F45ABB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TicTacToeContent", "TicTacToe\TicTacToeContent\TicTacToeContent.contentproj", "{483D74F0-FF4A-4775-B706-27BFA306DE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe.Core", "TicTacToe.Core\TicTacToe.Core.csproj", "{995E60D8-5774-4C08-BC8A-BE48A5FBA719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074762F1-BD68-48DD-9158-BB34A1F45ABB}.Debug|x86.ActiveCfg = Debug|x86
+		{074762F1-BD68-48DD-9158-BB34A1F45ABB}.Debug|x86.Build.0 = Debug|x86
+		{074762F1-BD68-48DD-9158-BB34A1F45ABB}.Release|x86.ActiveCfg = Release|x86
+		{074762F1-BD68-48DD-9158-BB34A1F45ABB}.Release|x86.Build.0 = Release|x86
+		{483D74F0-FF4A-4775-B706-27BFA306DE8B}.Debug|x86.ActiveCfg = Debug|x86
+		{483D74F0-FF4A-4775-B706-27BFA306DE8B}.Release|x86.ActiveCfg = Release|x86
+		{995E60D8-5774-4C08-BC8A-BE48A5FBA719}.Debug|x86.ActiveCfg = Debug|x86
+		{995E60D8-5774-4C08-BC8A-BE48A5FBA719}.Debug|x86.Build.0 = Debug|x86
+		{995E60D8-5774-4C08-BC8A-BE48A5FBA719}.Release|x86.ActiveCfg = Release|x86
+		{995E60D8-5774-4C08-BC8A-BE48A5FBA719}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
